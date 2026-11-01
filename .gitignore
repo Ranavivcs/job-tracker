@@ -1,0 +1,11 @@
+node_modules/
+dist/
+
+# Personal job-search data stays local; the app seeds it from server/sample-jobs.json.
+server/data/
+
+.env
+*.log
+*.tmp
+.DS_Store
+.vscode/

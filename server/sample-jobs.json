@@ -1,0 +1,134 @@
+{
+  "lastGmailSync": null,
+  "jobs": [
+    {
+      "id": "sample-1",
+      "company": "Northwind Labs",
+      "position": "Junior Full Stack Developer",
+      "status": "interview",
+      "appliedAt": "2026-10-06",
+      "location": "Tel Aviv (Hybrid)",
+      "url": "",
+      "notes": "Technical interview next week. Review React hooks and REST basics.",
+      "source": "manual",
+      "events": [
+        { "date": "2026-10-06T09:00:00.000Z", "text": "Added as applied" },
+        { "date": "2026-10-14T13:30:00.000Z", "text": "Status changed to interview" }
+      ],
+      "createdAt": "2026-10-06T09:00:00.000Z",
+      "updatedAt": "2026-10-14T13:30:00.000Z"
+    },
+    {
+      "id": "sample-2",
+      "company": "Bluepeak",
+      "position": "Frontend Engineer (React)",
+      "status": "applied",
+      "appliedAt": "2026-10-20",
+      "location": "Ramat Gan (On-site)",
+      "url": "",
+      "notes": "",
+      "source": "manual",
+      "events": [{ "date": "2026-10-20T10:00:00.000Z", "text": "Added as applied" }],
+      "createdAt": "2026-10-20T10:00:00.000Z",
+      "updatedAt": "2026-10-20T10:00:00.000Z"
+    },
+    {
+      "id": "sample-3",
+      "company": "Lumen Data",
+      "position": "Backend Developer (Node.js)",
+      "status": "applied",
+      "appliedAt": "2026-10-17",
+      "location": "Remote",
+      "url": "",
+      "notes": "Referred by a friend.",
+      "source": "manual",
+      "events": [{ "date": "2026-10-17T08:15:00.000Z", "text": "Added as applied" }],
+      "createdAt": "2026-10-17T08:15:00.000Z",
+      "updatedAt": "2026-10-17T08:15:00.000Z"
+    },
+    {
+      "id": "sample-4",
+      "company": "Orbitly",
+      "position": "Software Engineer",
+      "status": "offer",
+      "appliedAt": "2026-09-22",
+      "location": "Herzliya (Hybrid)",
+      "url": "",
+      "notes": "Offer received. Decide by Nov 10.",
+      "source": "manual",
+      "events": [
+        { "date": "2026-09-22T11:00:00.000Z", "text": "Added as applied" },
+        { "date": "2026-10-01T15:00:00.000Z", "text": "Status changed to interview" },
+        { "date": "2026-10-27T12:00:00.000Z", "text": "Status changed to offer" }
+      ],
+      "createdAt": "2026-09-22T11:00:00.000Z",
+      "updatedAt": "2026-10-27T12:00:00.000Z"
+    },
+    {
+      "id": "sample-5",
+      "company": "Cedar Systems",
+      "position": "Junior Developer",
+      "status": "rejected",
+      "appliedAt": "2026-09-15",
+      "location": "Petah Tikva (On-site)",
+      "url": "",
+      "notes": "",
+      "source": "manual",
+      "events": [
+        { "date": "2026-09-15T09:30:00.000Z", "text": "Added as applied" },
+        { "date": "2026-09-29T07:45:00.000Z", "text": "Status changed to rejected" }
+      ],
+      "createdAt": "2026-09-15T09:30:00.000Z",
+      "updatedAt": "2026-09-29T07:45:00.000Z"
+    },
+    {
+      "id": "sample-6",
+      "company": "Quillworks",
+      "position": "AI Engineer",
+      "status": "rejected",
+      "appliedAt": "2026-09-30",
+      "location": "Tel Aviv (On-site)",
+      "url": "",
+      "notes": "Home assignment submitted on Oct 8.",
+      "source": "manual",
+      "events": [
+        { "date": "2026-09-30T14:00:00.000Z", "text": "Added as applied" },
+        { "date": "2026-10-05T10:00:00.000Z", "text": "Status changed to interview" },
+        { "date": "2026-10-16T09:00:00.000Z", "text": "Status changed to rejected" }
+      ],
+      "createdAt": "2026-09-30T14:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "sample-7",
+      "company": "Harbor & Pine",
+      "position": "Full Stack Engineer",
+      "status": "applied",
+      "appliedAt": "2026-10-24",
+      "location": "Haifa (Hybrid)",
+      "url": "",
+      "notes": "",
+      "source": "manual",
+      "events": [{ "date": "2026-10-24T16:20:00.000Z", "text": "Added as applied" }],
+      "createdAt": "2026-10-24T16:20:00.000Z",
+      "updatedAt": "2026-10-24T16:20:00.000Z"
+    },
+    {
+      "id": "sample-8",
+      "company": "Vantage Robotics",
+      "position": "Software Engineer - Student Position",
+      "status": "interview",
+      "appliedAt": "2026-10-12",
+      "location": "Rehovot (On-site)",
+      "url": "",
+      "notes": "Phone screen went well; onsite scheduled.",
+      "source": "manual",
+      "events": [
+        { "date": "2026-10-12T12:00:00.000Z", "text": "Added as applied" },
+        { "date": "2026-10-26T10:30:00.000Z", "text": "Status changed to interview" }
+      ],
+      "createdAt": "2026-10-12T12:00:00.000Z",
+      "updatedAt": "2026-10-26T10:30:00.000Z"
+    }
+  ]
+}
